@@ -1,1 +1,1 @@
-console.error("mi error personalizado")
+document.write("<h1>hello world</h1>");
