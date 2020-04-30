@@ -1,1 +1,1 @@
-console.log("hola mundo")
+console.error("mi error personalizado")
