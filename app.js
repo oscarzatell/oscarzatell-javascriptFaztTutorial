@@ -1,3 +1,6 @@
+//TODO LO QUE ESTA EN ESTAS BARRAS SON 
+//COMENTARIOS
+
 // tipos de datos
 "Hello world" // string
 'Hello world' // string
